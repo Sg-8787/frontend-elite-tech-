@@ -10,7 +10,6 @@ nav {
   text-align: center;
   
 }
-
 nav a {
   color: #fff;
   margin: 0 15px;
@@ -88,9 +87,7 @@ footer{
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 30px;
-
-  
+  margin-top: 30px; 
 }
 
 .logo {
