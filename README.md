@@ -1,18 +1,13 @@
-# Task 1: Interactive Quiz Application 
+🧠 Interactive Quiz Application
 
-This is a simple web-based quiz application** built using **HTML, CSS, and JavaScript**. It allows users to answer multiple-choice questions, receive instant feedback, and track their score.
+This project was created for **Task 1** of the ELiteTech Internship Program. It is a simple, interactive **quiz web app** built using HTML, CSS, and JavaScript. The app allows users to answer multiple-choice questions and receive instant feedback with a final score.
 
-## Features
+📌 Features:
 
-- 📋 Dynamic question loading
-- ✅ Instant answer feedback using `alert()`
-- 🧮 Score tracking
-- 🎯 Responsive UI
-- 💡 Clean and well-commented code
-
-## Tech Stack
-
-- HTML
-- CSS
-- JavaScript
+✅ Multiple-choice quiz format  
+✅ Dynamic question loading  
+✅ Immediate right/wrong feedback  
+✅ Score tracking  
+✅ Fully responsive layout  
+✅ User-friendly design
 
