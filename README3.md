@@ -1,19 +1,14 @@
-Personal Portfolio – Task 3 (EliteTech Front-End Internship)
+Personal Portfolio Website
 
-This is a *responsive single-page portfolio website* built using *HTML and CSS* as part of *Task 3* of the EliteTech Front-End Internship.
+This is the front-end project for **Task 3** of the ELiteTech Internship Program. It is a responsive single-page **personal portfolio website** built using only **HTML** and **CSS** to showcase a developer's skills, projects, and contact details.
 
-🔗 Live Demo
-[Click here to view](https://yourusername.github.io/portfolio/)  
-(Replace this with your actual hosted link)
+📌 Features
 
-📁 Features
-- Single-page responsive layout
-- Navigation bar with anchor links
-- Sections: About Me, Skills, Projects, Contact
-- Clean and minimal design
-
-💡 Technologies Used
-- HTML5
-- CSS3
-
+✅ Single-page design  
+✅ Clean, modern layout  
+✅ Smooth navigation bar  
+✅ About section  
+✅ Projects section (with demo links)  
+✅ Contact information  
+✅ Fully responsive on all screen sizes
 
